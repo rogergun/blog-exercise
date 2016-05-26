@@ -1,6 +1,3 @@
 # blog-exercise
+# code-show
 
-...
-$ cd /tmp/
-$ ./testblog
-...
